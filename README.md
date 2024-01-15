@@ -25,15 +25,17 @@ Sales order contain: ASIN, number_of_items, amountUSD, orderID, date
 
 ### Sales Plan
 
-Sales plan contain: pack, number_of_items, amountUSD, date(future)
+Sales plan contain: pack, number_of_items, amountUSD, date(future), version
 
-# Report
+About version - right now we have two version of sales plan(initial and current).
+
+## Report
 
 Report should looks like example:
 
 ![Alt text](static/screen2.png)
 
-# Other requirements
+## Other requirements
 
 1. As a user I should have ability to change Sales Plan for each pack and future month.
 2. As a user I should view all changes to each salas plan and user who is change(change history)

@@ -1,0 +1,79 @@
+"id","product_id","created_at","pack","asin","fin_model_name","image_url","rating","pack_master","product_master"
+1,1,"2024-01-14 20:19:21.308963","Microneedling Pen","B0CDNRQHNF","Microneedling Pen",NULL,NULL,True,True
+2,1,"2024-01-14 20:19:21.331687","Microneedling Pen","B0CFD9RXWW","Microneedling Pen",NULL,NULL,False,False
+3,2,"2024-01-14 20:19:21.344659","Hand Masks - 1 pack","B0CDCCLZ88","Hand Mask 1 pack",NULL,NULL,True,True
+4,2,"2024-01-14 20:19:21.350576","Hand Masks - 1 pack","B0CF5PF6SR","Hand Mask 1 pack",NULL,NULL,False,False
+5,2,"2024-01-14 20:19:21.357963","Hand Masks - 1 pack","B0CF5T63MQ","Hand Mask 1 pack",NULL,NULL,False,False
+6,2,"2024-01-14 20:19:21.365106","Hand Masks - 1 pack","B08GYQFJ2F","Hand Mask 1 pack",NULL,NULL,False,False
+7,2,"2024-01-14 20:19:21.373146","Hand Masks - 1 pack","B07JQLJS9M","Hand Mask 1 pack",NULL,NULL,False,False
+8,2,"2024-01-14 20:19:21.380412","Hand Masks - 1 pack","B0CF5XMSZP","Hand Mask 1 pack",NULL,NULL,False,False
+9,2,"2024-01-14 20:19:21.384992","Hand Masks - 1 pack","B09YJ7KGRV","Hand Mask 1 pack",NULL,NULL,False,False
+10,2,"2024-01-14 20:19:21.390503","Hand Masks - 1 pack","B07MGW8VWT","Hand Mask 1 pack",NULL,NULL,False,False
+11,2,"2024-01-14 20:19:21.395338","Hand Masks - 1 pack","B0CF5VYVVZ","Hand Mask 1 pack",NULL,NULL,False,False
+12,2,"2024-01-14 20:19:21.400661","Hand Masks - 1 pack","B0CF5YQPPY","Hand Mask 1 pack",NULL,NULL,False,False
+13,2,"2024-01-14 20:19:21.405444","Hand Masks - 6 pack","B0CF5XX53L","Hand Masks - 6 pack",NULL,NULL,True,False
+14,2,"2024-01-14 20:19:21.411473","Hand Masks - 6 pack","B0CDCCGS46","Hand Masks - 6 pack",NULL,NULL,False,False
+15,2,"2024-01-14 20:19:21.417529","Hand Masks - 12 pack","B0CDCBZMFC","Hand Masks - 12 pack",NULL,NULL,True,False
+16,2,"2024-01-14 20:19:21.425585","Hand Masks - 12 pack","B08JXJNQTD","Hand Masks - 12 pack",NULL,NULL,False,False
+17,2,"2024-01-14 20:19:21.430159","Hand Masks - 24 pack","B08JX79PNX","Hand Masks - 24 pack",NULL,NULL,True,False
+18,3,"2024-01-14 20:19:21.437912","Foot Mask - 1 pack","B07JR87WV8","Foot Mask - 1 pack",NULL,NULL,True,True
+19,3,"2024-01-14 20:19:21.442647","Foot Mask - 1 pack","B07MGW7J3P","Foot Mask - 1 pack",NULL,NULL,False,False
+20,3,"2024-01-14 20:19:21.447398","Foot Mask - 1 pack","B07MGW7PMW","Foot Mask - 1 pack",NULL,NULL,False,False
+21,3,"2024-01-14 20:19:21.452082","Foot Mask - 2 pack","B07JQ3MY9C","Foot Mask - 2 pack",NULL,NULL,True,False
+22,3,"2024-01-14 20:19:21.457098","Foot Mask - 2 pack","B07MD9NY19","Foot Mask - 2 pack",NULL,NULL,False,False
+23,3,"2024-01-14 20:19:21.4617","Foot Mask - 2 pack","B08JXFMHMT","Foot Mask - 2 pack",NULL,NULL,False,False
+24,3,"2024-01-14 20:19:21.467121","Foot Mask - 2 pack","B08JX6NZ69","Foot Mask - 2 pack",NULL,NULL,False,False
+25,3,"2024-01-14 20:19:21.472115","Foot Mask - 3 pack","B0CFYXLJWM","Foot M 3P",NULL,NULL,True,False
+26,3,"2024-01-14 20:19:21.476924","Foot Mask - 3 pack","B0CFZK9JJR","Foot M 3P",NULL,NULL,False,False
+27,3,"2024-01-14 20:19:21.481525","Foot Mask - 3 pack","B0CFZLXXP9","Foot M 3P",NULL,NULL,False,False
+28,3,"2024-01-14 20:19:21.485828","Foot Mask - 6 pack","B0CFZG51XB","Foot M 6P",NULL,NULL,True,False
+29,3,"2024-01-14 20:19:21.491346","Foot Mask - 6 pack","B0CFZD6GHX","Foot M 6P",NULL,NULL,False,False
+30,3,"2024-01-14 20:19:21.497129","Foot Mask - 6 pack","B0CFZHBFXB","Foot M 6P",NULL,NULL,False,False
+31,3,"2024-01-14 20:19:21.502594","Foot Mask - 8 pack","B07MNQLQ9Z","Foot Mask - 8 pack",NULL,NULL,True,False
+32,3,"2024-01-14 20:19:21.507956","Foot Mask - 16 pack","B08JX9XMSX","Foot Mask - 16 pack",NULL,NULL,True,False
+33,4,"2024-01-14 20:19:21.51524","Charcoal Peel Mask for Face - 8 pack","B0CC9N5PSK","Charcoal Peel Off Mask",NULL,NULL,True,True
+34,4,"2024-01-14 20:19:21.520048","Charcoal Peel Mask for Face - 8 pack","B0CC72XW21","Charcoal Peel Off Mask",NULL,NULL,False,False
+35,4,"2024-01-14 20:19:21.524828","Charcoal Peel Mask for Face - 8 pack","B0CCB1P4B3","Charcoal Peel Off Mask",NULL,NULL,False,False
+36,4,"2024-01-14 20:19:21.532082","Charcoal Peel Mask for Face - 8 pack","B0CBZKK4DJ","Charcoal Peel Off Mask",NULL,NULL,False,False
+37,5,"2024-01-14 20:19:21.539282","Collagen Face Serum","B0CB4SHY82","Moisturizing Serum",NULL,NULL,True,True
+38,5,"2024-01-14 20:19:21.5443","Collagen Face Serum","B0CFYQSW6P","Moisturizing Serum",NULL,NULL,False,False
+39,5,"2024-01-14 20:19:21.549243","Collagen Face Serum","B0CHFFQVY9","Moisturizing Serum",NULL,NULL,False,False
+40,5,"2024-01-14 20:19:21.554325","Collagen Face Serum","B0CHFGPVZX","Moisturizing Serum",NULL,NULL,False,False
+41,5,"2024-01-14 20:19:21.560422","Collagen Face Serum","B0CHFCP5YX","Moisturizing Serum",NULL,NULL,False,False
+42,6,"2024-01-14 20:19:21.567162","Silk Heatless Hair Curler","B0CH8TW7QP","Curler",NULL,NULL,True,True
+43,6,"2024-01-14 20:19:21.572901","Silk Heatless Hair Curler","B0CB1SNYB3","Curler",NULL,NULL,False,False
+44,6,"2024-01-14 20:19:21.57804","Silk Heatless Hair Curler","B0CH8SYF9Z","Curler",NULL,NULL,False,False
+45,7,"2024-01-14 20:19:21.583945","Green Tea Stick for Face 1 pack","B0CFRJF3QR","Green Stick 1 Pack",NULL,NULL,True,True
+46,7,"2024-01-14 20:19:21.589156","Green Tea Stick for Face 1 pack","B0CB4KFMHD","Green Stick 1 Pack",NULL,NULL,False,False
+47,7,"2024-01-14 20:19:21.595378","Green Tea Stick for Face 1 pack","B0CFRDZX2C","Green Stick 1 Pack",NULL,NULL,False,False
+48,7,"2024-01-14 20:19:21.601274","Green Tea Stick for Face 2 pack","B0CB4W6BN1","Green Stick 2 Pack",NULL,NULL,True,False
+49,8,"2024-01-14 20:19:21.60901","Eye patches - 10 pack","B085Z14HMP","Eye patches - 10 pack",NULL,NULL,True,True
+50,8,"2024-01-14 20:19:21.614326","Eye patches - 15 pack","B07JPHMY39","Eye P 15P",NULL,NULL,True,False
+51,8,"2024-01-14 20:19:21.61906","Eye patches - 15 pack","B0CFZQGBNV","Eye P 15P",NULL,NULL,False,False
+52,8,"2024-01-14 20:19:21.623607","Eye patches - 30 pack","B0CFZLVZ2S","Eye P 30P",NULL,NULL,True,False
+53,8,"2024-01-14 20:19:21.627917","Eye patches - 30 pack","B0CFZNQTN2","Eye P 30P",NULL,NULL,False,False
+54,8,"2024-01-14 20:19:21.633099","Eye patches - 30 pack","B0CFZLP75W","Eye P 30P",NULL,NULL,False,False
+55,8,"2024-01-14 20:19:21.638543","Eye patches - 30 pack","B0CFZ9W8QF","Eye P 30P",NULL,NULL,False,False
+56,8,"2024-01-14 20:19:21.644244","Eye patches - 60 pack","B0CFZKS2K5","Eye patches - 60 pack",NULL,NULL,True,False
+57,9,"2024-01-14 20:19:21.650902","Korean Bubble Mud Face Mask","B0CCVP9P52","Bubble Clay Face Mask",NULL,NULL,True,True
+58,9,"2024-01-14 20:19:21.656176","Korean Bubble Mud Face Mask","B0C9TP6764","Bubble Clay Face Mask",NULL,NULL,False,False
+59,9,"2024-01-14 20:19:21.661278","Korean Bubble Mud Face Mask","B0BSXKMVMT","Bubble Clay Face Mask",NULL,NULL,False,False
+60,9,"2024-01-14 20:19:21.665908","Korean Bubble Mud Face Mask","B0CCVRPJLT","Bubble Clay Face Mask",NULL,NULL,False,False
+61,9,"2024-01-14 20:19:21.671293","Korean Bubble Mud Face Mask","B0CB4TFCVB","Bubble Clay Face Mask",NULL,NULL,False,False
+62,9,"2024-01-14 20:19:21.676237","Korean Bubble Mud Face Mask","B0CCVVP2TZ","Bubble Clay Face Mask",NULL,NULL,False,False
+63,10,"2024-01-14 20:19:21.683051","Gold Sheet Mask - 1 pack","B0CFYP43NZ","Gold Sheet Mask - 1 pack",NULL,NULL,True,True
+64,10,"2024-01-14 20:19:21.687433","Gold Sheet Mask - 5 pack","B0CFYM3SKP","Gold M 5P",NULL,NULL,True,False
+65,10,"2024-01-14 20:19:21.692143","Gold Sheet Mask - 5 pack","B0CFY9FH4V","Gold M 5P",NULL,NULL,False,False
+66,10,"2024-01-14 20:19:21.696171","Gold Sheet Mask - 5 pack","B0CFYN8P88","Gold M 5P",NULL,NULL,False,False
+67,10,"2024-01-14 20:19:21.700162","Gold Sheet Mask - 10 pack","B0CFYDDQZL","Gold M 10P",NULL,NULL,True,False
+68,10,"2024-01-14 20:19:21.705267","Gold Sheet Mask - 10 pack","B0CFYMS147","Gold M 10P",NULL,NULL,False,False
+69,10,"2024-01-14 20:19:21.710569","Gold Sheet Mask - 16 pack","B076VRDC33","Gold Sheet Mask - 16 pack",NULL,NULL,True,False
+70,10,"2024-01-14 20:19:21.715119","Gold Sheet Mask - 16 pack","B08GM8T4NM","Gold Sheet Mask - 16 pack",NULL,NULL,False,False
+71,10,"2024-01-14 20:19:21.719216","Gold Sheet Mask - 16 pack","B07C2YW3HR","Gold Sheet Mask - 16 pack",NULL,NULL,False,False
+72,10,"2024-01-14 20:19:21.724275","Gold Sheet Mask - 16 pack","B079Y8CSS6","Gold Sheet Mask - 16 pack",NULL,NULL,False,False
+73,10,"2024-01-14 20:19:21.728663","Gold Sheet Mask - 16 pack","B08KQ893BL","Gold Sheet Mask - 16 pack",NULL,NULL,False,False
+74,10,"2024-01-14 20:19:21.733165","Gold Sheet Mask - 15 pack","B0CFYDSK7Q","Gold M 15P",NULL,NULL,True,False
+75,11,"2024-01-14 20:19:21.740133","Shower Stimmers","B0CGRXK1B1","Shower Steamers",NULL,NULL,True,True
+76,11,"2024-01-14 20:19:21.746901","Shower Stimmers","B0CJYFX7P4","Shower Steamers",NULL,NULL,False,False
+77,11,"2024-01-14 20:19:21.752061","Shower Stimmers","B0CJYF81V6","Shower Steamers",NULL,NULL,False,False
+78,11,"2024-01-14 20:19:21.758804","Shower Stimmers","B0CJYFR5J4","Shower Steamers",NULL,NULL,False,False
