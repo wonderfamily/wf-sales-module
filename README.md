@@ -13,5 +13,5 @@ version 17.0
 This is product with related selling Packs. 
 Example:
 
-Product Hand Masks has Hand Masks - 1 pack, Hand Masks - 6 pack, Hand Masks - 12 pack. 
+Product **Hand Masks** has Hand Masks - 1 pack, Hand Masks - 6 pack, Hand Masks - 12 pack. 
 
