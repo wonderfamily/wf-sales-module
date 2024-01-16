@@ -33,7 +33,29 @@ About version - right now we have two version of sales plan(initial and current)
 
 Report should looks like example:
 
-![Alt text](static/screen2.png)
+It in Russian language.
+
+Translations:
+
+```
+План - Plan(sales projections);
+Факт - Fact(real sales);
+Партнер - Partner(owner)
+Паки - Packs
+Картинка - image
+Рейтинг/Отзывы - Rating/Review
+```
+
+Colors logic:
+
+```
+If plan more than fact 15% - salmon red(#ffd5d5)
+If plan is more than fact 10-15% - light yellow(#fdffae)
+If fact more than plan 15% - lime green(#8ffea2)
+If fact near plan -10%+10% - green(#d5ffd9)
+```
+
+![Report](static/report1.jpg)
 
 ## Other requirements
 
